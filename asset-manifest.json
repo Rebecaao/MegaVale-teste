@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MegaVale-teste/static/css/main.840ba68a.css",
+    "main.js": "/MegaVale-teste/static/js/main.a2e1a378.js",
+    "static/js/787.cda612ba.chunk.js": "/MegaVale-teste/static/js/787.cda612ba.chunk.js",
+    "index.html": "/MegaVale-teste/index.html",
+    "main.840ba68a.css.map": "/MegaVale-teste/static/css/main.840ba68a.css.map",
+    "main.a2e1a378.js.map": "/MegaVale-teste/static/js/main.a2e1a378.js.map",
+    "787.cda612ba.chunk.js.map": "/MegaVale-teste/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.840ba68a.css",
+    "static/js/main.a2e1a378.js"
+  ]
+}
